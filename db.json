@@ -15,6 +15,13 @@
         "text":"Yo!",
         "textColor":"#FF69B4"
       }
-    }
+    },
+    {  
+  "class":"android.widget.CompoundButton",
+  "attributes":{
+    "textOn":"string ON",
+    "textOff":"string OFF"
+  }
+}
   ]
 }
