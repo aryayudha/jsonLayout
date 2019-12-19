@@ -1,0 +1,20 @@
+{
+  "views":[  
+    {  
+      "class":"android.widget.ImageView",
+      "attributes":{  
+        "layout_width":"wrap_content",
+        "layout_height":"wrap_content",
+        "src":"https://lazarjelic.com/ecloga/projects/dynamico/logo.png",
+        "cache":true
+      }
+    },
+    {  
+      "class":"android.widget.TextView",
+      "attributes":{  
+        "text":"Yo!",
+        "textColor":"#FF69B4"
+      }
+    }
+  ]
+}
